@@ -1,6 +1,10 @@
 [![Build Status](https://app.travis-ci.com/vlmaier/docker-react.svg?branch=master)](https://app.travis-ci.com/vlmaier/docker-react)
 
-# Getting Started with Create React App
+# docker-react
+
+This repository was created in order to practice Docker deployment using a single container. I followed the Udemy course by Stephen Grider: [Docker and Kubernetes: The Complete Guide](https://www.udemy.com/docker-and-kubernetes-the-complete-guide).
+
+The application itself says 'Hello world!' when successfully deployed. It is deployed using Travis CI & Docker Hub.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

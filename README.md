@@ -1,4 +1,4 @@
-[![Build Status](https://app.travis-ci.com/vlmaier/docker-react.svg?branch=master)](https://app.travis-ci.com/vlmaier/docker-react)
+![](https://github.com/vlmaier/docker-react/actions/workflows/build.yml/badge.svg)
 
 # docker-react
 

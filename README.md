@@ -9,7 +9,7 @@ The application itself says 'Hello world!' when successfully deployed.
 ~~It is deployed using Travis CI & Docker Hub.~~
 > I am out of free credits.
 
-It' built with GitHub Actions.
+It is built with GitHub Actions.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

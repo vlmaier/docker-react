@@ -4,7 +4,12 @@
 
 This repository was created in order to practice Docker deployment using a single container. I followed the Udemy course by Stephen Grider: [Docker and Kubernetes: The Complete Guide](https://www.udemy.com/docker-and-kubernetes-the-complete-guide).
 
-The application itself says 'Hello world!' when successfully deployed. It is deployed using Travis CI & Docker Hub.
+The application itself says 'Hello world!' when successfully deployed.
+
+~~It is deployed using Travis CI & Docker Hub.~~
+> I am out of free credits.
+
+It' built with GitHub Actions.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
